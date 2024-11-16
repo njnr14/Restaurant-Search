@@ -1,7 +1,7 @@
 
-# Zomato Restaurant Listing & Searching
+# Restaurant Listing & Searching
 
-This is a project assignment that implements a restaurant listing and search system using the MERN (MongoDB, Express, React, Node.js) stack. The goal of the project is to allow users to load restaurant data into a database, build a web API service for fetching and searching restaurants, and create a user interface to display and search through the restaurant data.
+This project implements a restaurant listing and search system using the MERN (MongoDB, Express, React, Node.js) stack. The goal of the project is to allow users to load restaurant data into a database, build a web API service for fetching and searching restaurants, and create a user interface to display and search through the restaurant data.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
